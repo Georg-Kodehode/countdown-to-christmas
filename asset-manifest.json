@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/countdown-to-christmas/static/css/main.98104541.css",
+    "main.js": "/countdown-to-christmas/static/js/main.6f8fc336.js",
+    "static/js/787.e4dfcdf5.chunk.js": "/countdown-to-christmas/static/js/787.e4dfcdf5.chunk.js",
+    "static/media/Christmas_Goodwill.ttf": "/countdown-to-christmas/static/media/Christmas_Goodwill.5cc7ef9bc39773c6bed2.ttf",
+    "static/media/christmas_background2.jpg": "/countdown-to-christmas/static/media/christmas_background2.5530290e5afaa9c959e5.jpg",
+    "index.html": "/countdown-to-christmas/index.html",
+    "main.98104541.css.map": "/countdown-to-christmas/static/css/main.98104541.css.map",
+    "main.6f8fc336.js.map": "/countdown-to-christmas/static/js/main.6f8fc336.js.map",
+    "787.e4dfcdf5.chunk.js.map": "/countdown-to-christmas/static/js/787.e4dfcdf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98104541.css",
+    "static/js/main.6f8fc336.js"
+  ]
+}
